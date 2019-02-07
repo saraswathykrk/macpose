@@ -1,0 +1,4 @@
+person
+not_person
+poses
+no_poses
